@@ -1,0 +1,24 @@
+# Reddit API & Web Libraries
+praw==7.7.1
+
+# Google Gemini SDK
+google-generativeai==0.5.4
+#using gemni so no need transformers
+
+# NLP & Data Tools
+
+spacy==3.7.4
+scikit-learn==1.5.0
+
+# Optional: Embedding & Text Analysis (keep only if needed)
+# sentence-transformers==2.6.1
+
+# Utilities
+python-dotenv==1.0.1
+
+# LLM for Local Use
+transformers==4.41.2
+torch==2.3.0
+
+#for web UI
+streamlit==1.35.0
